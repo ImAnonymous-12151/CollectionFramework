@@ -30,6 +30,6 @@ Before the introduction of the Collection Framework in JDK 1.2, Java used to rel
 * Map: An interface that represents a collection of key-value pairs (e.g., HashMap, TreeMap)
 
 ## Hierarchy
-![Java Collection Framework Hierarchy](image-url)
+![Java Collection Framework Hierarchy]([image-url](https://github.com/ImAnonymous-12151/CollectionFramework/blob/main/Screenshot%20from%202025-02-05%2017-41-17.png))
 
 
