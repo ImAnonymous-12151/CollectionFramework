@@ -32,5 +32,7 @@ Before the introduction of the Collection Framework in JDK 1.2, Java used to rel
 ## Hierarchy
 ![Java Collection Framework Hierarchy](https://raw.githubusercontent.com/ImAnonymous-12151/CollectionFramework/main/Screenshot%20from%202025-02-05%2017-41-17.png)
 
-
+###Iterable
+Iterable is a root Interface in a collection hierarchy it has only use that its child can use for each loop.
+## List Interface
 
